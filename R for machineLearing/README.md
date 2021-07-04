@@ -9,4 +9,4 @@ I did apriori, decision tree, k means clustering, knn, naive bayes, regression.
 If you want the model with good perfermance about your data,
 
 
-You need to try various method like regularization, boosting, bagging etc.
+You additionally have to try various method like regularization, boosting, bagging etc.
