@@ -15,7 +15,7 @@ I did the practice based on the file used in the lecture and upload my practice 
 #### It must have equal type between node.
 
 
-#### We can build Graph 2 ways
+#### We can build Graph by 2 ways
 1. Define training data in advance.
 2. Using tf.placeholder - > After build graph, we can give feed_dict
 
