@@ -1,3 +1,3 @@
 ## Statistics
 
-I'm studying Statistics theory totally.
+I'm studying Statistics theory overall.
