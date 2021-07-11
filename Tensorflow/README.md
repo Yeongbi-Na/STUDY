@@ -9,11 +9,22 @@ I take a lecture https://hunkim.github.io/ml/
 I did the practice based on the file used in the lecture and upload my practice file.
 
 
+.py format is provided as a practice file, but I am studying in a colab environment, so I upload it in .ipynb format.
+
 
 
 ## Regression with Tensorflow
 #### It must have equal type between node.
 
+#### sometimes we need to normalize data because values of cost have infinite values.
+
+#### I have to consider the shape of y_data when I extract y_data(label). 
+y_data = data[:, -1]  >> It would make error because the shape is (~, ) so I have to reshape y_data like y_data.reshape(-1,1)
+
+
+y_data = data[:, [-1]] >> the shape (~, 1)
+
+<br>
 
 #### We can build Graph by 2 ways
 1. Define training data in advance.
@@ -32,3 +43,7 @@ I did the practice based on the file used in the lecture and upload my practice 
 
 
 * It is important to make graph with exact shape for W,b, x, y
+
+
+
+
