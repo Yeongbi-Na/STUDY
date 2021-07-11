@@ -1,6 +1,11 @@
-# R for machineLearning
+# Deep Learning 
 
-It's basic R programming for machine learning.
-I did apriori, decision tree, k means clustering, knn, naive bayes, regression.
-If you want the model with good perfermance about your data. 
-You need to try various method like regularization, boosting, bagging etc.
+
+
+I am studying deep learning through lectures on the site. 
+
+
+.py format is provided as a practice file, but I am studying in a colab environment, so I upload it in .ipynb format.
+
+
+https://hunkim.github.io/ml/
